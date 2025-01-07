@@ -2,18 +2,6 @@
 
 This repository contains the implementation, training, and evaluation of a **Variational Autoencoder (VAE)** and a **Generative Adversarial Network (GAN)** for signature generation tasks. The project explores the ability of these models to learn and generate realistic signatures.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Model Architectures](#model-architectures)
-- [Training Details](#training-details)
-- [Results](#results)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Visualization](#visualization)
-- [Challenges and Future Work](#challenges-and-future-work)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The project focuses on training **VAE** and **GAN** models to generate and reconstruct handwritten signatures. Both models were trained on a signature dataset, and their performance was assessed using loss metrics and qualitative visualization of generated signatures.
